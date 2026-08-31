@@ -1,4 +1,4 @@
-# FlexiTAC enables controllable PROTAC linker generation across diverse structural settings using a Bayesian flow network with posterior guidance
+# FlexiTAC 
 
 
 FlexiTAC is a Bayesian Flow Network developed for structure-based PROTAC linker design. It offers highly efficient sampling and accurate structure generation capabilities, and utilizes a posterior gradient guidance method to control linker flexibility.
