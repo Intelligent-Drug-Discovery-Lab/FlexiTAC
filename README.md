@@ -16,4 +16,5 @@ See FlexiTAC_UI.mov for the demonstration.
 
 # FlexiTAC interface
 Enabling Programmable PROTAC linker design via FlexiTAC
-![interface](interface.png)
+<img src="https://github.com/Intelligent-Drug-Discovery-Lab/FlexiTAC/blob/main/interface.png" width="50%">
+
