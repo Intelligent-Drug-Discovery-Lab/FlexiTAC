@@ -16,4 +16,4 @@ See FlexiTAC_UI.mov for the demonstration.
 
 # FlexiTAC interface
 Enabling Programmable PROTAC linker design via FlexiTAC
-![演示截图](./demo.png)
+![interface](interface.png)
