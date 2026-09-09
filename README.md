@@ -12,3 +12,8 @@ FlexiTAC is a Bayesian Flow Network developed for structure-based PROTAC linker 
 
 FlexiTAC UI is a lightweight interface built upon FlexiTAC for users to conveniently design PROTAC linkers. It supports local deployment on Mac and Linux.
 See FlexiTAC_UI.mov for the demonstration.
+
+
+# FlexiTAC interface
+Enabling Programmable PROTAC linker design via FlexiTAC
+![演示截图](./demo.png)
