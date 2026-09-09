@@ -16,5 +16,19 @@ See FlexiTAC_UI.mov for the demonstration.
 
 # FlexiTAC interface
 Enabling Programmable PROTAC linker design via FlexiTAC
-<img src="https://github.com/Intelligent-Drug-Discovery-Lab/FlexiTAC/blob/main/interface.png" width="50%">
+
+```python
+
+from interface import FlexiTAC
+
+linker_size = FlexiTAC.size_prediction_module("FlexiTAC/interface/example_outputs/fragments.sdf")
+anchors = FlexiTAC.anchor_prediction_module("FlexiTAC/interface/example_outputs/fragments.sdf")
+
+result = FlexiTAC.generate("FlexiTAC/interface/example_outputs/fragments.sdf",
+                           output_dir = "example",linker_size = linker_size,anchors = anchors)
+
+```
+
+
+
 
